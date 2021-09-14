@@ -2,9 +2,9 @@
 
 ![Header](https://coverfiles.alphacoders.com/130/130671.jpg)
 
-__Website__ [blackbird71SR.github.io](https://blackbird71SR.github.io)| __Twitter__ [@blackbird_71SR](https://twitter.com/blackbird_71SR)
------------- | -------------
-__Mail <omkarajnadkar@gmail.com>__ | __LinkedIn [omkar-ajnadkar](https://www.linkedin.com/in/omkar-ajnadkar/)__
+[blackbird71SR.github.io](https://blackbird71SR.github.io)| [twitter/@blackbird_71SR](https://twitter.com/blackbird_71SR)| <omkarajnadkar@gmail.com> | [linkedin/omkar-ajnadkar](https://www.linkedin.com/in/omkar-ajnadkar/) |
+------------ | ------------- | ------------ | ------------ |
+
 
 <!--
 **blackbird71SR/blackbird71SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
