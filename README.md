@@ -1,9 +1,14 @@
 ### Hi there 👋, I am Omkar
 
-![Header](https://coverfiles.alphacoders.com/130/130671.jpg)
+![Header](https://pbs.twimg.com/profile_banners/741879044816306176/1596628675/1500x500)
 
-[blackbird71SR.github.io](https://blackbird71SR.github.io)| [twitter/@blackbird_71SR](https://twitter.com/blackbird_71SR)| <omkarajnadkar@gmail.com> | [linkedin/omkar-ajnadkar](https://www.linkedin.com/in/omkar-ajnadkar/) |
------------- | ------------- | ------------ | ------------ |
+- [blackbird71SR.github.io](https://blackbird71SR.github.io)
+
+- [twitter/@blackbird_71SR](https://twitter.com/blackbird_71SR)
+
+- <omkarajnadkar@gmail.com>
+
+- [linkedin/omkar-ajnadkar](https://www.linkedin.com/in/omkar-ajnadkar/)
 
 
 <!--
